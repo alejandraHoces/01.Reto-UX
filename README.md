@@ -1,4 +1,4 @@
-# **YOUTUBE **
+# **YOUTUBE**
 En el siguiente trabajo se muestra la información detallada de las partes que conforman el UX(Que siente mientras interactúa) y UI (Con lo que interactúa) de el sitio web youtube.  
 
 ![Imagen Youtube](assets/image/youtube.png)  
